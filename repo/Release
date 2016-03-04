@@ -1,0 +1,6 @@
+Archive: apt-build
+Component: main
+Origin: apt-build
+Label: apt-build
+Suite: apt-build
+Architecture: armhf
